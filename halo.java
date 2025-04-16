@@ -13,8 +13,5 @@ public class halo {
 
 
         System.out.println("Halooooooo");
-        System.out.println("fufufu");
-
-        
     }
 }
