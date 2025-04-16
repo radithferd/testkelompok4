@@ -5,5 +5,7 @@ public class halo {
         System.out.println("Halo Radith");
 
         System.out.println("Halooooooo");
+
+        System.out.println("Coba lagi");
     }
 }
