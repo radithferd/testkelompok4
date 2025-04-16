@@ -7,5 +7,7 @@ public class halo {
         System.out.println("Halooooooo");
 
         System.out.println("Coba lagi");
+
+        System.out.println("ANJAAAYYYYYY");
     }
 }
